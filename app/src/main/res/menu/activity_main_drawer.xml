@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera &amp; Gallery" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_action_folder_new"
+            android:title="Gallery"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_crop"
+            android:icon="@android:drawable/ic_menu_crop"
+            android:visible="false"
+            android:title="Crop Images" />
+        <item
+            android:id="@+id/nav_extract_pdf"
+            android:icon="@drawable/ic_action_pdf_new"
+            android:title="Extract Pages from PDF "
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_extract_any_to_pdf"
+            android:icon="@drawable/docx_icon1"
+            android:title="Extract Docx,Xlsx,Pptx (Beta)"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Settings"
+            android:visible="false" />
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_rate_us"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_sign_doc"
+                android:icon="@drawable/ic_action_signature_popup"
+                android:title="Sign Doc - Sign &amp; Fill Docs"
+                android:visible="false"/>
+            <item
+                android:id="@+id/nav_qr_scanner"
+                android:icon="@drawable/qr_code_icon"
+                android:title="Qr Barcode Reader &amp; Generator"
+                android:visible="false"/>
+            <item
+                android:id="@+id/nav_ocr_scanner"
+                android:icon="@drawable/ic_action_ocr_popup"
+                android:title="OCR Scanner - Image Text Reader"
+                />
+            <item
+                android:id="@+id/nav_qr_code"
+                android:icon="@drawable/qr_code_icon"
+                android:title="QR code scan"
+                android:visible="false" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share"
+                android:visible="false"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="Privacy Policy" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_flash" type="id" />
+    <item name="menu_auto_focus" type="id" />
+    <item name="menu_formats" type="id" />
+    <item name="menu_camera_selector" type="id" />
+
+
+    <item name="fab_new_folder" type="id" />
+
+    <item name="fab_pdf" type="id" />
+    <item name="fab_any_doc" type="id" />
+
+
+    <item name="fab_images" type="id" />
+    <item name="fab_genrate_qr" type="id" />
+    <item name="fab_genrate_barcode" type="id" />
+    <item name="fab_images_zip" type="id" />
+    <item name="fab_delete" type="id" />
+    <item name="fab_camera" type="id" />
+
+    <item name="fab_Red" type="id" />
+    <item name="fab_White" type="id" />
+    <item name="fab_Blue" type="id" />
+    <item name="fab_Green" type="id" />
+    <item name="fab_Yellow" type="id" />
+
+    <item name="fab_Grey" type="id" />
+    <item name="fab_Orange" type="id" />
+    <item name="fab_Pink" type="id" />
+    <item name="fab_purple" type="id" />
+    <item name="fab_mulitple_gallery" type="id" />
+    <item name="fab_Open_any" type="id" />
+
+    <item name="fab_Camera" type="id" />
+    <item name="fab_Galary" type="id" />
+    <item name="fab_Aqua" type="id" />
+    <item name="fab_Navy" type="id" />
+
+
+    <item name="fab_share_code" type="id" />
+    <item name="fab_delete_code" type="id" />
+    <item name="fab_set_as_favourite" type="id" />
+
+
+</resources>
+

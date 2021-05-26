@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compressor Lite</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="OK">OK</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_field_blank">Please enter your feedback</string>
+    <string-array name="size_list">
+        <item>kb</item>
+        <item>mb</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="add_more_gallery">Add More from Gallery</string>
+    <string name="add_more_pdf">Crop Image</string>
+    <string name="camera">Camera</string>
+    <string name="camera_permission_msg">Kindly allow Camera Permission from App Setting, without this permission app could not scan or capture images.</string>
+    <string name="cancel">Cancel</string>
+    <string name="page_text_1">Quiz 1</string>
+
+
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+
+    <string-array name="share_items">
+        <item>Save PDF to Phone</item>
+        <item>Save Image to Phone</item>
+    <item>Share PDF file</item>
+    <item>Share Image (Zip)</item>
+    <item>Share Image (JPG)</item>
+    </string-array>
+    <string name="share">Share</string>
+    <string name="share_all">Share All</string>
+    <string name="crop">Crop</string>
+    <string name="delete">Delete</string>
+    <string name="permission_not_granted">Permissions not grated</string>
+    <string name="select_capture_image">Please select or capture image</string>
+    <string name="some_err">Some error occured, please try again later.</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <string name="permission_from_setting_access">Kindly allow Permissions from App Settings, without this permission app could not do few essential task.</string>
+    <string name="permission_must_required_msg">Kindly allow Camera Permission, without these permission app could not capture Images.</string>
+    <string name="permission_required">Permission Required:</string>
+    <string name="rename">Rename</string>
+    <string name="reset">Reset</string>
+    <string name="save_image">Save</string>
+    <string name="search_menu_title">Search</string>
+    <string name="send">Send</string>
+    <string name="smile_rating_bad">Bad</string>
+    <string name="smile_rating_good">Good</string>
+    <string name="smile_rating_great">Great</string>
+    <string name="smile_rating_okay">Okay</string>
+    <string name="smile_rating_terrible">Terrible</string>
+
+    <string name="storage_permission_must_required_msg">Kindly allow Read Storage Permission, without these permission app could not access Files.</string>
+    <string name="storage_permisson_msg">Kindly allow Storage Permission from App Setting, without this permission app could not access Files.</string>
+    <string name="title_activity_temp">TempActivity</string>
+
+
+    <string name="toolbar_title">Toolbar Title</string>
+    <!--Common-->
+    <string name="err_no_internet">Please check your internet connection!</string>
+
+    <!--Home-->
+    <string name="home">Home</string>
+    <string name="fruit_store_img">Fruit Store Image</string>
+    <string name="buy_from_store">Buy From Store</string>
+    <string name="view_your_purchases">View Your Purchases</string>
+
+    <!--Billing Dialog-->
+    <string name="subscribe">Subscribe</string>
+    <string name="billing_premium_desc">The features including \"Buying from store\" and
+        \"Viewing your purchased items\" requires special one-time subscription. Please
+        subscribe to enjoy these features for a lifetime.</string>
+    <string name="price">$0</string>
+    <string name="buy">Buy</string>
+
+    <!--InApp Billing-->
+    <string name="err_subscription_not_supported">Subscriptions are not supported with your
+        device!</string>
+    <string name="err_service_disconnected">Play Store service is not currently available! Please
+        check back later!</string>
+    <string name="err_no_sku">We did not find any SKUs to display&#8230; Check your internet
+        connection and make sure your Google Developer Console was setup correctly.</string>
+
+    <!--Store/View Purchased-->
+    <string name="store">Buy Pass</string>
+    <string name="your_purchases">Your Purchases</string>
+    <string name="one_apple">One Day Pass</string>
+    <plurals name="apples">
+        <item quantity="zero">Pass</item>
+        <item quantity="one">Pass</item>
+        <item quantity="many">Passes</item>
+        <item quantity="other">Passes</item>
+    </plurals>
+    <plurals name="qty">
+        <item quantity="zero">Qty: %d item purchased</item>
+        <item quantity="one">Qty: %d item purchased</item>
+        <item quantity="many">Qty: %d items purchased</item>
+        <item quantity="other">Qty: %d items purchased</item>
+    </plurals>
+    <string name="unlimited_popcorn">Unlimited Pass for a month</string>
+    <string name="purchased_with_expiry">Purchased, Expires at %s</string>
+    <string name="not_purchased_yet">Not Purchased Yet</string>
+    <string name="purchased">Purchased</string>
+    <string name="purchase_expired">Purchase Expired at %s</string>
+    <string-array name="background_color_array">
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+
+
+
+    <string name="content_provide_path">org.compressor.imagecompress.provider</string>
+    <string name="home_banner_ad">Home_Screen</string>
+    <string name="document_list_banner">Document_list</string>
+    <string name="preview_banner">Preview_Screen</string>
+
+    <string name="interstatial_home">Home_Screen</string>
+    <string name="interstatial_document">Document_List</string>
+    <string name="intersatial_preview">Preview_List</string>
+    <string name="app_id">9f421acd</string>
+
+
+
+
+   <!--  <string name="content_provide_path">app.compressor.imagecompress.provider</string>
+
+-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="alert">Alert</string>
+    <string name="security_reason_usb_cable_plugged_in">Due to security reason we have disabled app use while USB Cable is plugged-In , Please remove any USB Cable attached to your phone / Tablet.</string>
+    <string name="security_alert">Security Alert</string>
+    <string name="rooted_device_security_check">Due to security reason we can\'t allow use of our app on rooted Phone / Tablet</string>
+    <string name="processing">Processing...</string>
+    <string name="processing_device_health">Checking device health...</string>
+    <string name="rooted_device_found">This device is rooted. You can\'t use this app.</string>
+    <string name="rooted_device">Rooted Device Found.</string>
+    <string name="close_app">Close App</string>
+
+
+
+
+
+    <string name="loading_status">Requesting an ad…</string>
+    <string name="load_interstitial">Load Interstitial</string>
+    <string name="refresh_now">Refresh Now</string>
+    <string name="show_ad">Show!</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+    <string name="style">Style</string>
+    <string name="adview_type">Height</string>
+    <string name="show_code">Show Code</string>
+
+    <string name="ad_loading">Loading an ad…</string>
+    <string name="ad_loaded">Ad loaded</string>
+    <string name="ad_load_failed">Ad failed to load: %s</string>
+    <string name="ad_clicked">Ad clicked</string>
+    <string name="made_in">Made in</string>
+    <string name="india_malaysia">India</string>
+
+
+</resources>
